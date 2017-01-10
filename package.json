@@ -1,0 +1,19 @@
+{
+  "name": "sendy",
+  "version": "1.0.0",
+  "description": "Sendy is event broadcaster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/organizy/sendy.git"
+  },
+  "author": "Nemanja Nedeljković <nemanjan00@gmail.com> (https://nemanja.top/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/organizy/sendy/issues"
+  },
+  "homepage": "https://github.com/organizy/sendy#readme"
+}
